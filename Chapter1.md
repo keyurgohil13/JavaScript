@@ -1,1 +1,1 @@
-## Chapter 1 - Intro To JavaScript
+## Chapter-1 Intro To JavaScript
